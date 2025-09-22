@@ -7,7 +7,7 @@ export default function Contact() {
     firstName: "",
     lastName: "",
     contactNumber: "",
-    email: "",
+    email_id: "",
     message: "",
   });
 

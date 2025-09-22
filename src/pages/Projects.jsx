@@ -25,7 +25,7 @@ export default function Projects() {
         </div>
         {/*Project 3 */}
         <div className="project-card">
-            <img src="database.png" alt="Project 3" className="project-image"/>
+            <img src="" alt="Project 3" className="project-image"/>
             <h3>SQL Database Management</h3>
             <p>
                 <strong>Role:</strong>Database Developer <br />

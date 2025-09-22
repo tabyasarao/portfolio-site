@@ -13,7 +13,7 @@ export default function About() {
             I enjoy designing clean user interfaces and solving problems with clean, efficient code.</p>
         <p>
         You can view or download my resume here:{" "}
-        <a href="" target="_blank" rel="noopener noreferrer">
+        <a href="/Resume.pdf" target="_blank" rel="noopener noreferrer">
           Resume (PDF)
         </a>
         </p>

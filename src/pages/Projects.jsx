@@ -7,7 +7,7 @@ export default function Projects() {
              
         {/*Project 1 */}
         <div className="project-card">
-            <img src="webdevelopment.png" alt="Project 1" className="project-image"/>
+            <img src="/webdevelopment.png" alt="Project 1" className="project-image"/>
         <h3>Derma AI</h3>
         <p>
             <strong>Role:</strong>UI & System Documentation<br />
@@ -16,7 +16,7 @@ export default function Projects() {
         </div>
         {/*Project 2 */}
         <div className="project-card">
-            <img src="UNIX.png" alt="Project 2" className="project-image"/>
+            <img src="/UNIX.png" alt="Project 2" className="project-image"/>
             <h3>Unix Networking Project</h3>
             <p>
                 <strong>Role:</strong>System Integration <br />
@@ -25,7 +25,7 @@ export default function Projects() {
         </div>
         {/*Project 3 */}
         <div className="project-card">
-            <img src="" alt="Project 3" className="project-image"/>
+            <img src="/database.png" alt="Project 3" className="project-image"/>
             <h3>SQL Database Management</h3>
             <p>
                 <strong>Role:</strong>Database Developer <br />
